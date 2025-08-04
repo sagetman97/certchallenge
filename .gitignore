@@ -1,0 +1,11 @@
+.DS_Store
+.env*.log
+storage/
+venv/
+.venv/
+__pycache__/
+*.pyc
+qdrant
+qdrant-*
+get-pip.py
+uv.lock
