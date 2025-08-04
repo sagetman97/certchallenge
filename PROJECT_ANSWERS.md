@@ -192,7 +192,7 @@ Based on my analysis of the financial advisory domain and the limitations identi
 | **Naive Basic Retriever** | 0.9571 | 0.3935 | 0.9286 | 0.5714 | 0.7127 | $0.01 | $0.28 | 2.5s |
 | **Multi-Query Retriever** | 0.9780 | 0.8050 | 0.8327 | 0.8915 | 0.8768 | $0.02 | $1.72 | 12.34s |
 | **Ensemble Retriever** | 1.0000 | 0.8069 | 0.9651 | 0.6900 | 0.8655 | $0.04 | $1.12 | 7.76s |
-| **Parent Document Retriever** | 0.9954 | 0.8011 | 0.7143 | 0.8000 | 0.8277 | $1.40 | $0.25 | 7.47s |
+| **Parent Document Retriever** | 0.9954 | 0.8011 | 0.7143 | 0.8000 | 0.8277 | $0.05 | $1.40 | 7.47s |
 | **BM25 Retriever** | 0.8605 | 0.4030 | 0.4770 | 0.3909 | 0.5329 | $0.04 | $1.12 | 5.93s |
 
 **Key Performance Insights**:
